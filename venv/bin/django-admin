@@ -1,4 +1,4 @@
-#!/home/tinotz-max/Escritorio/Proyecto_Angar_Padel/backend/venv/bin/python3
+#!/home/santino/Angar_Padel_Club/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
